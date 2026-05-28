@@ -29,7 +29,7 @@ export default function Login() {
         <div style={{ textAlign: 'center', marginBottom: 40 }}>
           <div style={{ fontSize: 48, marginBottom: 16 }}>✈</div>
           <h2>Bienvenido de vuelta</h2>
-          <p style={{ color: 'var(--muted-2)', marginTop: 8 }}>Ingresá a tu cuenta de AeroCat</p>
+          <p style={{ color: 'var(--muted-2)', marginTop: 8 }}>Ingresá a tu cuenta de PlaneCatalog</p>
         </div>
 
         <div className="card" style={{ padding: '32px 28px' }}>

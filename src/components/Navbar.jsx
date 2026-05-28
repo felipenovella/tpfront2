@@ -14,7 +14,7 @@ export default function Navbar() {
     <nav className="navbar">
       <Link to="/" className="navbar-brand">
         <div className="navbar-logo">✈</div>
-        Aero<span>Cat</span>
+        Plane<span>Catalog</span>
       </Link>
 
       <div className="navbar-nav">
