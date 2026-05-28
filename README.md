@@ -4,7 +4,7 @@ Aplicación web para explorar, registrar y gestionar un catálogo personal de ae
 
 ## 🚀 Deploy
 
-[Ver aplicación en producción](https://aerocat.vercel.app) ← reemplazar con la URL real de Vercel
+[Ver aplicación en producción](https://aerocat.vercel.app)
 
 ## 🛠 Stack tecnológico
 
