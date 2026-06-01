@@ -34,7 +34,15 @@ export function AuthProvider({ children }) {
     </AuthContext.Provider>
   )
 }
-
 export function useAuth() {
   return useContext(AuthContext)
 }
+
+const signUp = (email, password) =>
+  supabase.auth.signUp({
+    email,
+    password,
+    options: {
+      emailRedirectTo: `${window.location.origin}/`
+    }
+  })
